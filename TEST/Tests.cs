@@ -1,6 +1,5 @@
 ﻿using System;
 using NUnit.Framework;
-using System.Threading.Tasks;
 using TC_NUint_CAT_Test;
 
 namespace TEST

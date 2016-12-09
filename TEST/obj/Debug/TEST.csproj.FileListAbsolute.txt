@@ -1,0 +1,7 @@
+D:\TC_NUint_CAT_Test\TC_NUint_CAT_Test\TEST\bin\Debug\TEST.dll
+D:\TC_NUint_CAT_Test\TC_NUint_CAT_Test\TEST\bin\Debug\TEST.pdb
+D:\TC_NUint_CAT_Test\TC_NUint_CAT_Test\TEST\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\TC_NUint_CAT_Test\TC_NUint_CAT_Test\TEST\bin\Debug\nunit.framework.dll
+D:\TC_NUint_CAT_Test\TC_NUint_CAT_Test\TEST\bin\Debug\nunit.framework.xml
+D:\TC_NUint_CAT_Test\TC_NUint_CAT_Test\TEST\obj\Debug\TEST.dll
+D:\TC_NUint_CAT_Test\TC_NUint_CAT_Test\TEST\obj\Debug\TEST.pdb
